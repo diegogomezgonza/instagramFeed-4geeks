@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(219, 219, 219);
+}
+
+#titulo {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
+  background-color: rgb(255, 255, 255);
+  width: 475px;
+}
+
+.photo {
+  width: 475px;
+}
+
+.subTitle {
+  font-size: 10px;
+  font-weight: bolder;
+  margin: auto;
+  display: flex;
+}
+
+.subTitleP {
+  margin-left: 10px;
+  margin-right: 375px;
+}
+
+.picNumberP {
+  font-weight: 400;
+}
+
+.description {
+  margin: 10px;
+  padding-bottom: 10px;
+}
